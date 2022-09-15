@@ -8,7 +8,7 @@ For this project, I was tasked with creating a proposal for potential investors,
 * Tableau
 * Visual Studio Code 
 * Pandas
-* Data: [Citi Bike Sharing Dataset]
+* Data: [Citi Bike Sharing Dataset](https://github.com/Lucky777b/bikesharing/blob/main/Resources/201908-citibike-tripdata.csv.zip)
 
 ## Results 
 
@@ -18,7 +18,7 @@ To view the entire 'Bike Trip Analysis: CitiBike NYC' Story created on Tableau P
 
 Page 1) Overall Data Specs 
 
-![Page 1](https://public.tableau.com/app/profile/bethany.murillo/viz/BikeTripAnalysis_16626830048660/Story1#1)
+![Page 1](https://github.com/Lucky777b/bikesharing/blob/main/Resources/overall_data.png)
 
 This page shows overall data specifications of the citibike data as a whole. There is a 'Customer Pie Chart', which represents how many more subscribers there are comparatively to how many customers use the bike sharing program. A 'Gender Pie Chart' is also included, to show a visual breakdown of how many 'Male', 'Female', or 'Unknown' users were found in the ride sharing data. There is a column for 'Unknown' because those users did not want to specify which gender they were, but it was still included in the data. At the bottom, there is a small table, which provides a numeric breakdown of users by 'Gender'. There is also an overall count of the total ride count for all users counted within the dataset. 
 
